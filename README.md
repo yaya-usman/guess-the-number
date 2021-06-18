@@ -1,4 +1,4 @@
-## Guess the number🎁
+<p align ="center"> ## Guess the number🎁 </p>
 
 ![](game.gif)
 
