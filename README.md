@@ -5,7 +5,7 @@
 
 ![](game.gif)
 
-This is a guessing game with a minimalist UI, where users has to guess a secret number between 1-20. check out the link below for live view👇
+This is a guessing game with a minimalistic UI, where users has to guess a secret number between 1-20. check out the link below for live view👇
 
 **Live view:** [try me out](https://guess-the-number-khaki.vercel.app/)
 
